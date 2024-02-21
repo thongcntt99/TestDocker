@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDockerDN8MVC", "TestDockerDN8MVC\TestDockerDN8MVC.csproj", "{B047A96F-1E98-4504-B97B-38DCA4D05B48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDockerDN8Api", "TestDockerDN8Api\TestDockerDN8Api.csproj", "{1EC5BD8A-4CE0-43C9-9816-651BEA6AC560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B047A96F-1E98-4504-B97B-38DCA4D05B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B047A96F-1E98-4504-B97B-38DCA4D05B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B047A96F-1E98-4504-B97B-38DCA4D05B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC5BD8A-4CE0-43C9-9816-651BEA6AC560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC5BD8A-4CE0-43C9-9816-651BEA6AC560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC5BD8A-4CE0-43C9-9816-651BEA6AC560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC5BD8A-4CE0-43C9-9816-651BEA6AC560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
